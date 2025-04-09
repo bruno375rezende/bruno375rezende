@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Eu sou o Bruno 👋
 
-<!--
-**bruno375rezende/bruno375rezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software na FIAP  
+🔧 Experiência com C, Python, HTML, Arduino, Excel e lógica de programação  
+📈 Em busca de um estágio em tecnologia para aplicar e evoluir minhas habilidades  
+🎮 Interesse sólido em tecnologia, desenvolvimento de jogos e projetos práticos  
+🚀 Estudando e construindo um caminho para atuar com desenvolvimento de jogos no futuro
 
-Here are some ideas to get you started:
+### 📂 Repositórios em destaque:
+- Projetos com Arduino
+- Algoritmos em C e Python
+- Testes com HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🔗 Meu LinkedIn](https://www.linkedin.com/in/bruno-lisboav)  
+[🔗 Meu GitHub](https://github.com/bruno375rezende)
+
+---
+
+“Disciplina é liberdade. Organização é liberdade.”
+
