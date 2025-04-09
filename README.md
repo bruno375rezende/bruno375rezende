@@ -11,7 +11,7 @@
 - Algoritmos em C e Python
 - Testes com HTML
 
-[🔗 Meu LinkedIn](https://www.linkedin.com/in/bruno-lisboav)  
+[🔗 Meu LinkedIn](https://www.linkedin.com/in/bruno-lisboa)  
 [🔗 Meu GitHub](https://github.com/bruno375rezende)
 
 ---
